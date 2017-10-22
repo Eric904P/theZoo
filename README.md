@@ -1,3 +1,6 @@
+**THIS REPOSITORY HAS BEEN FORKED FROM YTISF - BE EXTREMELY WARY; THIS IS FOR ME TO LEARN FROM AND I DO NOT MAKE ANY PROMISE OF SAFETY**
+**VISIT http://thezoo.morirt.com/ FOR THE ORIGNAL SOURCE**
+
 About
 ======
 theZoo is a project created to make the possibility of malware analysis open and available to the public. Since we have found out that almost all versions of malware are very hard to come by in a way which will allow analysis, we have decided to gather all of them for you in an accessible and safe way.
